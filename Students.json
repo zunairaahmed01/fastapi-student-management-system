@@ -1,0 +1,21 @@
+{
+    "s1": {
+        "name": "zunaira",
+        "age": 23,
+        "gender": "male",
+        "height": 5.2,
+        "weight": 70.0,
+        "DOB": "1998-12-01",
+        "email": "bob@example.com",
+        "linkedin": null,
+        "contact": {
+            "phone": "123456789",
+            "parent": "987654321"
+        },
+        "hobbies": [
+            "football",
+            "chess"
+        ],
+        "bmi": 2.588757396449704
+    }
+}
